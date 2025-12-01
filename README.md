@@ -128,10 +128,6 @@ I will update this repo every day during Advent of Cyber.
 
 ---
 
-## 🔗 My TryHackMe Profile
-
----
-
 ## 👋 About Me
 
 I’m studying Cloud Development (Java & AWS), but I’ve realized I enjoy working with cloud infrastructure and cybersecurity much more than writing code. I’m focusing on building skills in cloud engineering, security, and hands-on problem solving — areas I find both more engaging and more aligned with my future goals.
