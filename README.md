@@ -101,7 +101,7 @@ I will update this repo every day during Advent of Cyber.
 
 | Day   | Status         | Topic     |
 | ----- | -------------- | --------- |
-| Day 1 | ✅ Completed   |           |
+| Day 1 | ✅    |           |
 | Day 2 |    |           |
 | Day 3 |    |           |
 | Day 4 |                |           |
