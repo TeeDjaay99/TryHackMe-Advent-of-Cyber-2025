@@ -6,7 +6,7 @@ This project documents my daily cybersecurity learning, hands-on challenges, and
 
 ---
 
-## Purpose of This Repository
+## 🎯 Purpose of This Repository
 
 **This repo is my personal way of tracking what I learn each day, practicing new tools, and improving my understanding of cybersecurity concepts.**
 
@@ -38,7 +38,7 @@ Each day includes:
 
 ---
 
-## Repository Structure
+## 🗂️ Repository Structure
 
 ```
 /Day01
@@ -69,16 +69,16 @@ Each folder contains:
 
 ---
 
-## Tools Used Throughout This Project
+## 🛠️ Tools Used Throughout This Project
 Some of the tools and technologies I use across the 24 days:
 
 ---
 
-## Skills Practiced
+## 📚 Skills Practiced
 
 ---
 
-## Key Focus Areas for 2025
+## 🧠 Key Focus Areas for 2025
 
 My personal learning goals during this project include:
 
@@ -96,3 +96,27 @@ My personal learning goals during this project include:
 
 ---
 
+## 📅 Daily Progress Tracking
+I will update this repo every day during Advent of Cyber.
+
+---
+
+## 🔗 My TryHackMe Profile
+
+---
+
+## 👋 About Me
+
+I’m studying Cloud Development (Java & AWS), but I’ve realized I enjoy working with cloud infrastructure and cybersecurity much more than writing code. I’m focusing on building skills in cloud engineering, security, and hands-on problem solving — areas I find both more engaging and more aligned with my future goals.
+
+This repository helps me stay consistent, structured, and focused while building practical skills.
+
+---
+
+## 📬 Contact
+
+LinkedIn: https://www.linkedin.com/in/tonyjokiranta/
+
+GitHub: TeeDjaay99
+
+Location: Sweden
