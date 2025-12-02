@@ -1,5 +1,5 @@
-# Advent of Cyber – Day 01
-**Topic: Linux CLI**
+# Advent of Cyber 2025 – Day 01
+### **Linux CLI – Shells Bells**
 
 ---
 
