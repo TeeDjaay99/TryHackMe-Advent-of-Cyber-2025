@@ -38,6 +38,18 @@ Today's challenge introduced the Linux command-line interface and how to investi
 
 ## 📌 Step-by-Step Summary
 
+1. Displayed a message using `echo`  
+2. Listed directory contents with `ls`  
+3. Navigated to the `Guides` directory with `cd`  
+4. Used `ls -la` to reveal hidden files  
+5. Opened the hidden guide using `cat .guide.txt`  
+6. Followed the guide to `/var/log` to investigate logs  
+7. Used `grep "Failed password"` to identify failed login attempts  
+8. Used `find /home/socmas -name "*egg*"` to locate a suspicious script  
+9. Analyzed the `eggstrike.sh` script to understand its behavior  
+10. Switched to root with `sudo su` and checked bash history  
+11. Identified attacker commands left behind in `.bash_history`
+
 ---
 
 ## 🔐 Key Cybersecurity Concepts
@@ -51,6 +63,8 @@ Today's challenge introduced the Linux command-line interface and how to investi
 ---
 
 ## 🖼️ Screenshots
+
+![Listing hidden files]
 
 ---
 
