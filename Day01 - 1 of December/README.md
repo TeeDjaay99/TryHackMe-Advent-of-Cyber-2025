@@ -69,11 +69,20 @@ Today's challenge introduced the Linux command-line interface and how to investi
 *Using `ls -la` to reveal hidden guide file.*
 
 ![Using grep](screenshots/grep-failed-login.png)
+
 *Filtering logs for failed login attempts (There are many more rows of the failed attempts i decided to just capture a few of them in this screenshot).* 
 
 
-![Analyzing script](screenshots/Reviewing the eggstrike.png)  
+![Analyzing script](screenshots/Reviewing-the-eggstrike.png) 
+
 Reviewing the suspicious `eggstrike.sh` script.* 
+
+![Bash history](screenshots/-bash_history.png)
+
+*Finding attacker commands left in `.bash_history`.*  
+
+![Task completed](screenshots/Day01-completed.png)
+*Proof of completing Day 1.* 
 
 ---
 
