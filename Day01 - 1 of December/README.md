@@ -64,7 +64,8 @@ Today's challenge introduced the Linux command-line interface and how to investi
 
 ## 🖼️ Screenshots
 
-![Listing hidden files](Day01 - 1 of December/ls la to reveal hidden files.png)
+![Listing hidden files](screenshots/ls la to reveal hidden files.png)
+
 *Using `ls -la` to reveal hidden guide file.*
 
 ---
