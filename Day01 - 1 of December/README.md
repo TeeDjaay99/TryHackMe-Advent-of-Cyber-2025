@@ -88,4 +88,4 @@ Reviewing the suspicious `eggstrike.sh` script.*
 
 ## ✅ Final Takeaway
 
-**Day 1 reinforced the importance of CLI proficiency, log analysis, hidden files, and basic forensics — all essential skills for SOC analysts and security investigators.**
+Day 1 reinforced the importance of CLI proficiency, log analysis, hidden files, and basic forensics — all essential skills for SOC analysts and security investigators.
