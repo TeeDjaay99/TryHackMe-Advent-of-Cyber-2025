@@ -106,6 +106,24 @@ Capturing usernames/passwords from victims who interact with malicious pages.
 
 ## 🖼️ Screenshots
 
+![Phishing server started](screenshots/Started-the-py-script.png) 
+
+*Launching the fake login page using `server.py`* 
+
+
+![SET main menu](screenshots/navigating-the-social-engineer-kit.png)
+
+*Navigating Social-Engineer Toolkit options*
+
+![Configuring phishing email](screenshots/setting-up-the-phishing-mail.png)
+*Entering spoofed sender name, relay server, and email content.*
+
+![Captured credentials](screenshots/captured-password-from-phishingmail.png)
+*The fake login page successfully captures submitted credentials.*
+
+![Phishing email received](screenshots/phishing-email-in-the-receiversmailbox.png)
+
+
 ---
 
 ## ✅ Final Takeaway
