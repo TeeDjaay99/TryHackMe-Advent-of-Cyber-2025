@@ -121,9 +121,15 @@ Capturing usernames/passwords from victims who interact with malicious pages.
 ![Captured credentials](screenshots/captured-password-from-phishingmail.png)
 *The fake login page successfully captures submitted credentials.*
 
-![Phishing email received](screenshots/phishing-email-in-the-receiversmailbox.png)
+![Phishing email received](screenshots/phishing-email-in-the-receivers-mailbox.png)
+*The phishing message appears in the target user's inbox.*
 
+![Day 02 completed](screenshots/Day02-completed.png)
+
+*Proof of completing Day 02.*
 
 ---
 
 ## ✅ Final Takeaway
+
+Day 2 demonstrated how simple it is for attackers to launch effective phishing campaigns using open-source tools like SET. Even a basic spoofed email can compromise an entire organization if employees are not trained to recognize red flags.
