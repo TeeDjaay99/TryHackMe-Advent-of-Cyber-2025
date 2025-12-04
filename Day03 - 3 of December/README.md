@@ -86,6 +86,16 @@ From a learner’s perspective, this exercise was all about understanding how SI
 
 ## 🖼️ Screenshots
 
+![Initial Log Overview](screenshots/01-splunk-identifying-sourcetypes.png) 
+*Initial Log Overview – sourcetype identification*
+
+
+![Suspicious User Agents Identified](screenshots/02-splunk-user-agent-analysis.png)
+
+*Suspicious User Agents Identified*
+
+![Attacker IP Identified](screenshots/.png)
+*Attacker IP Identified*
 
 
 ---
