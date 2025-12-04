@@ -42,15 +42,15 @@ From a learner’s perspective, this exercise was all about understanding how SI
 ## 📌 Step-by-Step Summary
 
 1. Exploring logs in Splunk
-   - Searched index=main to reveal available logs.
-   - Identified two key datasets: web_traffic and firewall_logs.
+   - Searched `index=main` to reveal available logs.
+   - Identified two key datasets: `web_traffic` and `firewall_logs`.
 
 2. Finding abnormal activity
    - Switched to All Time and visualized spikes in log volume.
    - Large peaks pointed to potential attack windows.
 
 3. Investigating suspicious user agents
-   - Detected tools like curl, wget, sqlmap, and custom scripts.
+   - Detected tools like `curl`, `wget`, `sqlmap`, and custom scripts.
    - These clearly stood out from normal browsers.
 
 4. Isolating malicious traffic
@@ -63,13 +63,13 @@ From a learner’s perspective, this exercise was all about understanding how SI
 5. Reconstructing the attacker’s actions
     - Footprinting: Looked for `.env`, `.git`, and config files.
     - Path Traversal: Requests containing `../../` stood out.
-    - SQL Injection: Payloads like SLEEP(5) confirmed exploitation.
-    - Exfiltration: Attempts to download backup.zip and logs.tar.gz.
-    - RCE & Ransomware Execution: Identified /shell.php?cmd=./bunnylock.bin.
+    - SQL Injection: Payloads like `SLEEP(5)` confirmed exploitation.
+    - Exfiltration: Attempts to download `backup.zip` and `logs.tar.gz`.
+    - RCE & Ransomware Execution: Identified `/shell.php?cmd=./bunnylock.bin`.
   
 6. Firewall Correlation
     - Observed outbound C2 communication from the compromised server.
-    - Confirmed using fields like reason=C2_CONTACT.
+    - Confirmed using fields like `reason=C2_CONTACT`.
 
 ---
 
@@ -87,29 +87,33 @@ From a learner’s perspective, this exercise was all about understanding how SI
 ## 🖼️ Screenshots
 
 ![Initial Log Overview](screenshots/01-splunk-identifying-sourcetypes.png) 
-*Initial Log Overview – sourcetype identification*
+*Initial Log Overview – sourcetype identification* ⬆️
 
 
 ![Suspicious User Agents Identified](screenshots/02-splunk-user-agent-analysis.png)
 
-*Suspicious User Agents Identified*
+*Suspicious User Agents Identified* ⬆️
 
 ![Attacker IP Identified](screenshots/03-splunk-identifying-attacker-ip.png)
 
-*Attacker IP Identified*
+*Attacker IP Identified* ⬆️
 
 ![Reconnaissance Queries – probing sensitive paths](screenshots/04-recon-from-attacker-ip.png)
-*Reconnaissance Queries – probing sensitive paths*
+*Reconnaissance Queries – probing sensitive paths* ⬆️
 
 ![Enumeration & Exploitation Evidence](screenshots/enumeration1.png)
 ![Enumeration & Exploitation Evidence](screenshots/enumeration2.png)
-*Enumeration & Exploitation Evidence*
+*Enumeration & Exploitation Evidence* ⬆️
 
 ![Ransomware Staging & Webshell Execution](screenshots/Ransomware-staging.png)
-*Ransomware Staging & Webshell Execution*
+*Ransomware Staging & Webshell Execution* ⬆️
 
-![Firewall C2 Communication Confirmation](screenshots/.png)
-*Firewall C2 Communication Confirmation*
+![Firewall C2 Communication Confirmation](screenshots/outbound-c2-communication.png)
+*Firewall C2 Communication Confirmation* ⬆️
+
+![Data Exfiltration Confirmed](screenshots/volume-of-data-exfiltrated.png)
+![Data Exfiltration Confirmed](screenshots/exfiltration-of-logs.png)
+*Data Exfiltration Confirmed* ⬆️
 
 ---
 
