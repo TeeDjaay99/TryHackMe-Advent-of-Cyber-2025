@@ -121,7 +121,7 @@ Capturing usernames/passwords from victims who interact with malicious pages.
 ![Captured credentials](screenshots/captured-password-from-phishingmail.png)
 *The fake login page successfully captures submitted credentials.*
 
-![Phishing email received](screenshots/phishing-email-in-the-receivers-mailbox.png)
+![Phishing email received](screenshots/)
 *The phishing message appears in the target user's inbox.*
 
 ![Day 02 completed](screenshots/Day02-completed.png)
