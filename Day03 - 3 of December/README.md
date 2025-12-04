@@ -94,9 +94,22 @@ From a learner’s perspective, this exercise was all about understanding how SI
 
 *Suspicious User Agents Identified*
 
-![Attacker IP Identified](screenshots/.png)
+![Attacker IP Identified](screenshots/03-splunk-identifying-attacker-ip.png)
+
 *Attacker IP Identified*
 
+![Reconnaissance Queries – probing sensitive paths](screenshots/04-recon-from-attacker-ip.png)
+*Reconnaissance Queries – probing sensitive paths*
+
+![Enumeration & Exploitation Evidence](screenshots/enumeration1.png)
+![Enumeration & Exploitation Evidence](screenshots/enumeration2.png)
+*Enumeration & Exploitation Evidence*
+
+![Ransomware Staging & Webshell Execution](screenshots/Ransomware-staging.png)
+*Ransomware Staging & Webshell Execution*
+
+![Firewall C2 Communication Confirmation](screenshots/.png)
+*Firewall C2 Communication Confirmation*
 
 ---
 
