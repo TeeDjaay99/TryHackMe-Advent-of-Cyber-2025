@@ -1,5 +1,5 @@
 # 🎄Advent of Cyber 2025 – Day 04🎄
-### **🤖 AI in Security - old sAInt nick** 
+### 🤖 AI in Security - old sAInt nick
 ---
 
 ## 🎯 Objective 
