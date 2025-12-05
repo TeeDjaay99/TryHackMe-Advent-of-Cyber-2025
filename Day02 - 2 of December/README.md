@@ -1,5 +1,6 @@
 # 🎄Advent of Cyber 2025 – Day 02🎄
-### **Phishing - Merry Clickmas** 🎣
+### Phishing - Merry Clickmas 🎣
+
 ---
 
 ## 🎯 Objective 
