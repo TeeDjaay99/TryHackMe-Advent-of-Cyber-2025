@@ -74,7 +74,25 @@ Some of todays learnings:
 
 ## 🖼️ Screenshots
 
-![Reconnaissance Queries – probing sensitive paths](screenshots/04-recon-from-attacker-ip.png)
+![AI Showcase Introduction](screenshots/01-showcase-introduction.png)
+*AI showcase introduction* ⬆️
+
+![Stage 2: Red Team (AI-generated exploit script)](screenshots/02-Ai-created-script.png)
+*Stage 2: Red Team (AI-generated exploit script)* ⬆️
+
+![script has been run)](screenshots/03-script-running-output.png)
+
+*the script.py has been run* ⬆️
+
+![Stage 3: Blue Team (AI log analysis)](screenshots/04-log-analyzis-by-AI.png)
+*Stage 3: Blue Team (AI log analysis)* ⬆️
+
+![Stage 4: Software (AI code review / SAST-style output)](screenshots/05-software-assistant-review.png)
+*Stage 4: Software (AI code review / SAST-style output)* ⬆️
+
+![Stage Completed](screenshots/Day04-completed.png)
+
+*Proof of completing Day 4*. ⬆️
 
 ---
 
