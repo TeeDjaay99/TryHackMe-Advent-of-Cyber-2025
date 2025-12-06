@@ -106,8 +106,8 @@ I will update this repo every day during Advent of Cyber.
 | Day 3 | ✅ Completed   | Splunk Basics|
 | Day 4 | ✅ Completed   | Ai in Security|
 | Day 5 | ✅ Completed   | IDOR      | 
-| Day 6 |    |            |
-| Day 7 |    |            |
+| Day 6 |                 | Malware Analysis|
+| Day 7 |                 | Network - |
 | Day 8 |    |            |
 | Day 9 |    |            |
 | Day 10 |    |           | 
