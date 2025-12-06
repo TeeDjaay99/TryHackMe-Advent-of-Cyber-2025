@@ -76,6 +76,5 @@ The goal is to understand what a suspicious executable does, how it behaves on a
 
 ## ✅ Final Takeaway
 
-Today really showed how malware isn’t “magic”—it’s just a program doing things behind the scenes.
+Today really showed how malware isn’t some kind of "maigc" — it’s just a program doing things behind the scenes.
 With the right tools, even a beginner can reveal exactly what it tries to change, where it hides, and how it behaves.
-Dynamic and static analysis together make malware feel a lot less scary and a lot more understandable.
