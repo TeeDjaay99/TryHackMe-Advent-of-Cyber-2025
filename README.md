@@ -101,11 +101,11 @@ I will update this repo every day during Advent of Cyber.
 
 | Day   | Status         | Topic     |
 | ----- | -------------- | --------- |
-| Day 1 | ✅ Completed   | Linux CLI           |
-| Day 2 |    |           |
-| Day 3 |    |           |
-| Day 4 |                |           |
-| Day 5 |    |           | 
+| Day 1 | ✅ Completed   | Linux CLI |
+| Day 2 | ✅ Completed   | Phishing  |
+| Day 3 | ✅ Completed   | Splunk Basics|
+| Day 4 | ✅ Completed   | Ai in Security|
+| Day 5 | ✅ Completed   | IDOR      | 
 | Day 6 |    |            |
 | Day 7 |    |            |
 | Day 8 |    |            |
