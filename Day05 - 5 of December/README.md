@@ -61,7 +61,17 @@ The goal was to identify where IDOR existed in the TrypresentMe app and exploit 
 
 ## 🖼️ Screenshots
 
+![Main Dashboard After Login](screenshots/01-login-dashboard.png)
+*Main Dashboard After Login* ⬆️
 
+![Network Tab Showing the Vulnerable Numeric ID Request](screenshots/02-vulnerable-endpoint.png)
+*Network Tab Showing the Vulnerable Numeric ID Request* ⬆️
+
+![Response Tab Showing Personal Data From user_id=10](screenshots/03-local-storage-authuser-userid.png)
+*Response Tab Showing Personal Data From user_id=10*
+
+![Local Storage showing editable auth_user and user_id values](screenshots/04-Response-Tab-Data-From-userid.png)
+*Local Storage showing editable auth_user and user_id values*
 
 ---
 
