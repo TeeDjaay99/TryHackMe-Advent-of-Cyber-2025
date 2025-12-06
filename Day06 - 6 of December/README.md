@@ -70,7 +70,26 @@ The goal is to understand what a suspicious executable does, how it behaves on a
 
 ## 🖼️ Screenshots
 
+![PeStudio Overview (SHA256 + Metadata)](screenshots/01-Pestudio-SHA256.png)
+*Demonstrates initial static analysis and fingerprinting of the malware sample*. ⬆️
 
+![PeStudio Strings Tab](screenshots/02-Strings-count-pestudio.png)
+*Helps identify clues about the malware’s function without running it*. ⬆️
+
+![Regshot – Snapshot Comparison Window](screenshots/03-1st-snapshot.png)
+
+![Regshot – Snapshot Comparison Window](screenshots/04-2nd-snapshot.png)
+
+*Shows before/after registry changes caused by the malware*. ⬆️
+
+![Regshot Diff Output (Registry Changes)](screenshots/regshot-diff-output.png)
+*The Regshot diff showed a new Run key and several registry changes, confirming that HopHelper.exe tries to stay running after reboot*. ⬆️
+
+![ProcMon Capture Filtered to Malware Process](screenshots/procmon-capture-filtered.png)
+*Isolating the malware’s activity from system noise*. ⬆️
+
+![ProcMon Registry / File / TCP Activity](screenshots/TCP-procmon.png)
+*Shows what the malware actually does when running*. ⬆️
 
 ---
 
