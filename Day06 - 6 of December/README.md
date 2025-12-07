@@ -91,6 +91,10 @@ The goal is to understand what a suspicious executable does, how it behaves on a
 ![ProcMon Registry / File / TCP Activity](screenshots/TCP-procmon.png)
 *Shows what the malware actually does when running*. ⬆️
 
+![day6 completed](screenshots/Day06-dompleted.png)
+
+*Proof of completing Day 6*. ⬆️
+
 ---
 
 ## ✅ Final Takeaway
