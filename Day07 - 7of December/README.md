@@ -52,7 +52,32 @@ Today I learned how powerful port scanning is for discovering hidden services. E
 
 ## 🖼️ Screenshots
 
-![Initial Nmap Scan (Basic Port Scan))](screenshots/01-Pestudio-SHA256.png)
+![Initial Nmap Scan (Basic Port Scan))](screenshots/01-Initial-Nmap-Scan.png)
+
+*This scan shows the first two open ports (22 and 80), giving us an initial overview of the target.* ⬆️
+
+![Full Port Scan](screenshots/02-Full-Port-Range-Scan.png)
+
+*The full scan reveals hidden services on ports 21212 (FTP) and 25251 (TBFC service).* ⬆️
+
+![FTP Key Retrieval](screenshots/03-FTP-Client-Output.png)
+
+*Using FTP on port 21212, I connected anonymously and downloaded the first key.* ⬆️
+
+![Netcat Key Retrieval](screenshots/04-Netcat-Session.png)
+
+*By interacting with the TBFC service on port 25251 via Netcat, I extracted the second key.* ⬆️
+
+![DNS Query](screenshots/05-dig-TXT-Query.png)
+
+*A DNS TXT lookup returned the third hidden key from the server.* ⬆️
+
+![Listening Ports](screenshots/06-ss-tunlp-Output.png)
+*Inside the target, I listed open ports to confirm active services such as MySQL.* ⬆️
+
+![Day07 completed](screenshots/Day07-completed.png)
+
+*Proof of completing Day 7.* ⬆️
 
 ---
 
