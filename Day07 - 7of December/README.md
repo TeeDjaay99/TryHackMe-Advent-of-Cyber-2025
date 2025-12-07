@@ -52,7 +52,7 @@ Today I learned how powerful port scanning is for discovering hidden services. E
 
 ## 🖼️ Screenshots
 
-
+![Initial Nmap Scan (Basic Port Scan))](screenshots/01-Pestudio-SHA256.png)
 
 ---
 
