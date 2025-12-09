@@ -66,7 +66,7 @@ Understand how attackers recover weak passwords that protect encrypted files (PD
 ![Extracting ZIP Hash with zip2john](screenshots/03-Extracting-Zip-Hash.png)
 *Using* `zip2john` *to convert the ZIP file into a crackable hash for John the Ripper.*
 
-![Cracking ZIP Password with John](screenshots/04-Cracking-zip-password.png)
+![Cracking ZIP Password with John](screenshots/04-Cracking-zip-passwor.png)
 *John successfully cracks the ZIP password using the wordlist.*
 
 
