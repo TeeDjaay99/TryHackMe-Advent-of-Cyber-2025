@@ -55,6 +55,19 @@ Understand how attackers recover weak passwords that protect encrypted files (PD
 
 ## 🖼️ Screenshots
 
+![File Identification](screenshots/01-File-ID.png)
+
+*Using the file command to determine whether the sample is a PDF or a ZIP.*
+
+![PDF Dictionary Attack (pdfcrack)](screenshots/02-PDF-Dictionary-Attack.png)
+
+*Running* `pdfcrack` *with* `rockyou.txt` *to attempt password recovery on the PDF file.*
+
+![Extracting ZIP Hash with zip2john](screenshots/03-Extracting-Zip-Hash.png)
+*Using* `zip2john` *to convert the ZIP file into a crackable hash for John the Ripper.*
+
+![Cracking ZIP Password with John](screenshots/04-Cracking-zip-password.png)
+*John successfully cracks the ZIP password using the wordlist.*
 
 
 ---
