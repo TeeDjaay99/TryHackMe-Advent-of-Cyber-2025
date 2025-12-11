@@ -27,7 +27,7 @@ Learn how SOC analysts investigate and triage security alerts using Microsoft Se
 
 ## 📌 Step-by-Step Summary
 
-.
+
   
 ---
 
