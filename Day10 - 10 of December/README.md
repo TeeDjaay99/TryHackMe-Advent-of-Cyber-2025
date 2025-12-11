@@ -1,7 +1,7 @@
 # 🎄Advent of Cyber 2025 – Day 10🎄
 ### SOC Alert Triaging - Tinsel Triage
 
-## Having problems to connect to the cloud server for day 10s assignment, will try to do it another day! 
+## Having problems connecting to the cloud server that is required for day 10s assignment, will try to do it another day! 
 
 ---
 
