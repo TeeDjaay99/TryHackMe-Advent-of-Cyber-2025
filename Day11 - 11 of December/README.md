@@ -63,7 +63,33 @@ Learn how Cross-Site Scripting (XSS) works, identify reflected and stored XSS vu
 
 ## 🖼️ Screenshots
 
+![Home page / search interface](screenshots/01-Home-page.png)
 
+*Shows the main page of the application and the search input where the XSS tests begin.* ⬆️
+
+![Reflected XSS payload](screenshots/02-Reflected-XSS.png)
+
+*Screenshot of the XSS payload typed into the search field before execution.* ⬆️
+
+![Reflected XSS executed](screenshots/03-Browser-alert.png)
+
+*Browser alert box appearing after submitting the payload — confirms reflected XSS worked.* ⬆️
+
+![System Logs showing the reflected XSS payload](screenshots/04-System-Logs.png)
+
+*Log entry revealing that unfiltered user input is being stored and displayed in system logs.* ⬆️
+
+![Stored XSS payload](screenshots/05-Stored-XSS.png)
+
+*Screenshot of the malicious script typed into the message/comment form before sending.* ⬆️
+
+![Stored XSS executing](screenshots/06-Stored-XSS-executing.png)
+
+*Screenshot of the alert popup automatically appearing on page load — proves persistent (stored) XSS.* ️️⬆️
+
+![Day 11 complete](screenshots/Day11-completed.png)
+
+*Proof of completing Day 11.* ⬆️
 
 
 ---
