@@ -5,7 +5,8 @@
 
 ## 🎯 Objective 
 
-
+The goal of today’s lab was to learn how to identify and triage phishing emails by analyzing real-world examples.
+I focused on spotting common phishing techniques such as impersonation, social engineering, spoofing, and malicious attachments.
 
 ---
 
