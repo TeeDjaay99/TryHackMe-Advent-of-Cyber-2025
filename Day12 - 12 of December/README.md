@@ -72,21 +72,30 @@ I focused on spotting common phishing techniques such as impersonation, social e
 
 ## 🖼️ Screenshots
 
-![Home page / search interface](screenshots/01-Home-page.png)
+![Impersonation & Free Domain](screenshots/01-Impersonation-Free-Domain.png)
+*Shows a phishing email where the sender impersonates an internal user while using a free or external email domain.* ⬆️
 
-![Home page / search interface](screenshots/01-Home-page.png)
+![Legitimate Marketing Email](screenshots/02-Legitimate-Marketing.png)
+*Used as a comparison example to show the difference between spam and phishing.* ⬆️
 
-![Home page / search interface](screenshots/01-Home-page.png)
+![Urgency & Social Engineering](screenshots/03-Phishing-Email.png)
+*Highlights urgent language and social engineering techniques used to pressure the recipient.* ⬆️
 
-![Home page / search interface](screenshots/01-Home-page.png)
+![Spoofing Indicators](screenshots/04-Email-Headers.png)
+*The Return-Path reveals the email was sent from a different domain than claimed, confirming sender spoofing.* ⬆️
 
-![Home page / search interface](screenshots/01-Home-page.png)
+![Punycode Domain Example](screenshots/05-Punycode-Domain.png)
+*Shows a domain designed to look legitimate through misspellings or punycode usage.* ⬆️
 
-![Home page / search interface](screenshots/01-Home-page.png)
+![Malicious Attachment](screenshots/06-Malicious-Attachment.png)
+*Demonstrates how phishing emails deliver malicious HTML attachments* ⬆️
 
-![Home page / search interface](screenshots/01-Home-page.png)
+![Final Triage and Indicator Selection](screenshots/07-Indicator-Selection.png)
+*Confirms correct phishing indicators were identified and selected during triage.* ⬆️
 
-![Home page / search interface](screenshots/01-Home-page.png)
+![Day 12 complete](screenshots/Day12-completed.png)
+
+*Proof of completing Day 12.* ⬆️
 
 ---
 
