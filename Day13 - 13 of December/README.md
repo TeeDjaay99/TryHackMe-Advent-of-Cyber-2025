@@ -1,1 +1,42 @@
+# 🎄Advent of Cyber 2025 – Day 01🎄
+### YARA Rules - YARA mean one!
 
+---
+
+## 🎯 Objective 
+
+
+
+---
+
+## 🛠 Tools & Techniques Used
+
+
+
+---
+
+## 🧠 What I Learned Today
+
+
+
+---
+
+## 📌 Step-by-Step Summary
+
+
+
+---
+
+## 🔐 Key Cybersecurity Concepts
+
+
+
+---
+
+## 🖼️ Screenshots
+
+
+
+---
+
+## ✅ Final Takeaway
