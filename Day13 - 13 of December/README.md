@@ -73,8 +73,21 @@ YARA is mainly a detection and hunting tool, often used after an incident or dur
 
 ## 🖼️ Screenshots
 
+![Own YARA Rule](screenshots/01-.png)
 
+*Custom YARA rule written to detect malicious strings and file signatures.*
+
+![Running the YARA Rule](screenshots/02-.png)
+
+*Executing the custom YARA rule against the target directory.*
+
+![Detection Result](screenshots/01-Impersonation-Free-Domain.png)
+
+![Impersonation & Free Domain](screenshots/01-Impersonation-Free-Domain.png)
 
 ---
 
 ## ✅ Final Takeaway
+
+YARA gives defenders more control by letting them look for how malware behaves, not just its name.
+Even simple rules can be useful, and learning YARA helped me understand how analysts search for suspicious activity during investigations and incidents.
