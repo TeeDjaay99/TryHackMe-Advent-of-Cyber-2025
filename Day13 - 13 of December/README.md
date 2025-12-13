@@ -75,15 +75,19 @@ YARA is mainly a detection and hunting tool, often used after an incident or dur
 
 ![Own YARA Rule](screenshots/01-.png)
 
-*Custom YARA rule written to detect malicious strings and file signatures.*
+*Custom YARA rule written to detect malicious strings and file signatures.* ⬆️
 
 ![Running the YARA Rule](screenshots/02-.png)
 
-*Executing the custom YARA rule against the target directory.*
+*Executing the custom YARA rule against the target directory.* ⬆️
 
-![Detection Result](screenshots/01-Impersonation-Free-Domain.png)
+![Detection Result](screenshots/03-D.png)
 
-![Impersonation & Free Domain](screenshots/01-Impersonation-Free-Domain.png)
+*YARA successfully detected files containing the target pattern.* ⬆️
+
+![Day 13 done](screenshots/Day13-completed.png)
+
+*Proof of completing Day 11.* ⬆️
 
 ---
 
