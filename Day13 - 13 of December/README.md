@@ -87,7 +87,7 @@ YARA is mainly a detection and hunting tool, often used after an incident or dur
 
 ![Day 13 done](screenshots/Day13-completed.png)
 
-*Proof of completing Day 11.* ⬆️
+*Proof of completing Day 13.* ⬆️
 
 ---
 
