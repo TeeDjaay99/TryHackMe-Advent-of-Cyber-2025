@@ -57,18 +57,24 @@ Learn how SOC analysts investigate and triage security alerts using Microsoft Se
 
 ## 🖼️ Screenshots
 
-![Home page / search interface](screenshots/01-Home-page.png)
+![Sentinel Incidents Dashboard](screenshots/01-.png) 
+*Microsoft Sentinel incidents dashboard showing multiple Linux privilege escalation alerts across hosts.* ⬆️
 
-![Home page / search interface](screenshots/01-Home-page.png)
+![High-Severity Incident Selected](screenshots/02-.png)
+*High-severity “Linux PrivEsc – Kernel Module Insertion” incident selected for investigation.* ⬆️
 
-![Home page / search interface](screenshots/01-Home-page.png)
+![Incident Overview & Entities](screenshots/03-.png)
+*Incident overview showing affected hosts and initial detection timeline for kernel module insertion.* ⬆️
 
-![Home page / search interface](screenshots/01-Home-page.png)
+![Similar Incidents View](screenshots/04-.png)
+*Similar incidents view revealing repeated kernel module insertion activity across multiple alerts.* ⬆️
 
-![Home page / search interface](screenshots/01-Home-page.png)
+![KQL Investigation Query + Results](screenshots/05-.png)
+*KQL query and results confirming malicious activity, including kernel module insertion, root access, and privilege escalation.* ⬆️
 
-![Home page / search interface](screenshots/01-Home-page.png)
+![Day 10 complete](screenshots/Day10-completed.png)
 
+*Proof of completing Day 10.* ⬆️
 
 ---
 
