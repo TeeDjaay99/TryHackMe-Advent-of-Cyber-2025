@@ -30,13 +30,20 @@ I also learned how attackers can abuse internal services rather than exploiting 
 
 ## 📌 Step-by-Step Summary
 
-**1.** Identified running Docker containers using docker ps
+**1.** Identified running Docker containers using `docker ps`
+
 **2.** Accessed the main web application and confirmed it was defaced
-**3.** Entered the uptime-checker container to investigate further
-**4.** Discovered that the Docker socket (/var/run/docker.sock) was exposed
+
+**3.** Entered the `uptime-checker` container to investigate further
+
+**4.** Discovered that the Docker socket (`/var/run/docker.sock`) was exposed
+
 **5.** Used Docker access to enter a privileged container
+
 **6.** Gained root-level access inside the container environment
+
 **7.** Executed a recovery script to restore the original web application
+
 **8.** Verified that the service was successfully restored
   
 ---
