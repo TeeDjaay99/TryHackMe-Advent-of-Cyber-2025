@@ -70,7 +70,29 @@ I also learned how attackers can abuse internal services rather than exploiting 
 
 ## 🖼️ Screenshots
 
+![Own YARA Rule](screenshots/01-Running-containers.png)
+*Shows active Docker containers running on the host system.* ⬆️
 
+![Own YARA Rule](screenshots/02-defaced-webapp.png)
+*Displays the compromised Hopperoo (DoorDasher) website.* ⬆️
+
+![Own YARA Rule](screenshots/03-Access-to-Container.png)
+
+*Shows successful access to the uptime-checker container and confirms that the Docker socket is exposed inside the container, enabling potential container escape.* ⬆️
+
+![Own YARA Rule](screenshots/05-privileged-access.png)
+*Shows successful access to a privileged container with root permissions.* ⬆️
+
+![Own YARA Rule](screenshots/06-ran-recovery-script.png)
+
+*Executed the script to restore the application* ⬆️
+
+![Own YARA Rule](screenshots/07-restored-website.png)
+*Confirms the DoorDasher service has been successfully restored.* ⬆️
+
+![day 14 complete](screenshots/Day14-completed.png)
+
+*Proof of completing Day 14.* ⬆️
 
 
 ---
