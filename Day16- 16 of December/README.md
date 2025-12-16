@@ -38,4 +38,4 @@
 
 ---
 
-## ✅ Final Takeawa
+## ✅ Final Takeaway
