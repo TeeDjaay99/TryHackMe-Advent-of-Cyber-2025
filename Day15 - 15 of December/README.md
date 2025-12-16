@@ -60,31 +60,34 @@ Investigate a suspected web-based attack by analyzing Apache and Windows logs in
 
 ## 🖼️ Screenshots
 
-![Own YARA Rule](screenshots/01-.png)
-*Splunk Search interface showing successful login and access to log analysis tools.*
+![Intro](screenshots/01-Intro.png)
+*Splunk Search interface showing successful login and access to log analysis tools.* ⬆️
 
-![Own YARA Rule](screenshots/02-.png)
-*Apache access log results showing command injection attempts against a CGI script, including Base64-encoded PowerShell commands.*
+![request](screenshots/02-http-request.png)
+*Apache access log results showing command injection attempts against a CGI script, including Base64-encoded PowerShell commands.* ⬆️
 
-![Own YARA Rule](screenshots/03-.png)
-*Decoding the Base64-encoded PowerShell payload extracted from Apache access logs to analyze attacker intent (the Base-64 payload can be seen in the picture before this one).*
+![base 64](screenshots/03-Base64.png)
 
-![Own YARA Rule](screenshots/04-.png)
-*Apache error log entries showing backend processing errors triggered by PowerShell command injection attempts.*
+⬆️ *Decoding the Base64-encoded PowerShell payload extracted from Apache access logs to analyze attacker intent (the Base-64 payload can be seen in the picture before this one).*
 
-![Own YARA Rule](screenshots/05-.png)
-*Sysmon process creation logs confirming Apache (httpd.exe) spawned cmd.exe, indicating successful command execution on the host.*
+![apache error 500](screenshots/04-apache-error.png)
+*Apache error log entries showing backend processing errors triggered by PowerShell command injection attempts.* ⬆️
 
-![Own YARA Rule](screenshots/06-.png)
-*Sysmon logs showing execution of the whoami command, confirming attacker enumeration after successful command execution.* 
+![log creation](screenshots/05-log-creation.png)
+*Sysmon process creation logs confirming Apache (httpd.exe) spawned cmd.exe, indicating successful command execution on the host.* ⬆️
 
-![Own YARA Rule](screenshots/07-.png)
-*Search for encoded PowerShell execution returned no results, confirming the Base64 payload did not successfully run.*
+![whoami](screenshots/06-whoami.png)
+*Sysmon logs showing execution of the whoami command, confirming attacker enumeration after successful command execution.* ⬆️
 
-![Own YARA Rule](screenshots/.png)
+![payload unsuccessful](screenshots/07-the-payload-did-nothing.png)
+*Search for encoded PowerShell execution returned no results, confirming the Base64 payload did not successfully run.* ⬆️
 
+![day 15 complete](screenshots/day15-completed.png)
+
+*Proof of completing Day 15.* ⬆️
 
 ---
 
 ## ✅ Final Takeaway
 
+This task showed how a web attack can move from suspicious HTTP requests to actual command execution on the server. By looking at both web logs and system logs in Splunk, I was able to see how an attacker tried to run commands and what actually worked. This helped me understand how SOC analysts confirm whether an attack was successful or not.
