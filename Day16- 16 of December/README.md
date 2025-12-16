@@ -73,20 +73,20 @@ Understand what the Windows Registry is and how it can be used in digital forens
 ## 🖼️ Screenshots
 
 ![Intro](screenshots/01-Intro.png)
+*Registry Explorer launched and ready for offline registry forensic analysis.*
 
 ![Intro](screenshots/01-Intro.png)
+*Folder containing offline Windows registry hive files and associated transaction logs used for forensic analysis.*
 
 ![Intro](screenshots/01-Intro.png)
+*Registry Explorer showing the SYSTEM registry hive being selected and loaded for offline forensic analysis.*
 
 ![Intro](screenshots/01-Intro.png)
+*This screenshot shows the Windows Registry Uninstall key, which stores information about applications installed on the system. By examining install dates and publisher details, it is possible to identify software that was added around the time abnormal activity began.*
 
-![Intro](screenshots/01-Intro.png)
-
-![Intro](screenshots/01-Intro.png)
-
-![Intro](screenshots/01-Intro.png)
-
-![Intro](screenshots/01-Intro.png)
+After loading the registry hives, I explored different registry locations to answer the questions in this task. Since there was no step-by-step guidance, I had to decide where to look based on the registry cheat sheet provided at the start of the room.
+I checked registry keys that show installed applications to see what software had been added around the time the abnormal activity started. I then looked at user-related registry data to understand how applications were launched and from where.
+Finally, I reviewed common startup and persistence registry locations to see if any application was set to run automatically when the system starts
 
 ---
 
