@@ -72,7 +72,21 @@ Understand what the Windows Registry is and how it can be used in digital forens
 
 ## 🖼️ Screenshots
 
+![Intro](screenshots/01-Intro.png)
 
+![Intro](screenshots/01-Intro.png)
+
+![Intro](screenshots/01-Intro.png)
+
+![Intro](screenshots/01-Intro.png)
+
+![Intro](screenshots/01-Intro.png)
+
+![Intro](screenshots/01-Intro.png)
+
+![Intro](screenshots/01-Intro.png)
+
+![Intro](screenshots/01-Intro.png)
 
 ---
 
