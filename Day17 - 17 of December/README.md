@@ -84,17 +84,34 @@ Understanding how data is transformed is often more important than the tools use
 ## 🖼️ Screenshots
 
 
-![registry explorer](screenshots/01-.png)
+![Cyber chef open](screenshots/01-Cyberchef-open.png)
+*CyberChef interface showing the decoding workspace* ⬆️
+
+![login](screenshots/02-login-inspection.png)
+*Browser developer tools displaying the client-side login logic* ⬆️
+
+![Decode](screenshots/03-decoding.png)
+*CyberChef decoding workflow for one lock (output hidden)* ⬆️
 
 
-![registry explorer](screenshots/01-.png)
+![day 17 completed](screenshots/day17-completed.png)
 
+*Proof of completing Day 5.* ⬆️
 
-![registry explorer](screenshots/01-.png)
+---
 
+## 🧭 Investigation Approach
+
+Instead of trying random decoding operations, I started by looking at how the login process worked in the browser.
+Using the developer tools, I read the JavaScript code to understand how the username and password were changed before being checked.
+Once I understood what transformations were being applied, I recreated the same steps in CyberChef.
+This made it easier to see whether I was on the right track, since the output changed after each step.
+Although the same techniques were reused across different locks, the order and combination were not always the same.
+This forced me to slow down, re-read the logic, and adjust my CyberChef recipe instead of reusing the same solution each time.
 
 ---
 
 ## ✅ Final Takeaway
 
-Day 17 showed that breaking security challenges is not about guessing or brute force — it’s about understanding logic. By carefully inspecting how data was transformed and reversing it step by step, even complex-looking protections became manageable. This task showed the importance of patience, analysis, and trying to think like an attacker.
+Day 17 showed that solving security challenges is more about understanding logic than using advanced tools.
+By carefully inspecting how data was transformed and applying the same logic in CyberChef, each lock could be solved step by step without guessing.
