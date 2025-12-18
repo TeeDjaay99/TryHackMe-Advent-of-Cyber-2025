@@ -1,1 +1,48 @@
+# 🎄Advent of Cyber 2025 – Day 19🎄
+### ICS/Modbus - Claus for Concern
 
+---
+
+## 🎯 Objective 
+
+
+
+---
+
+## 🛠 Tools & Techniques Used
+
+
+
+---
+
+## 🧠 What I Learned Today
+
+
+
+---
+
+## 📌 Step-by-Step Summary
+
+
+  
+---
+
+## 🔐 Key Cybersecurity Concepts
+
+
+
+---
+
+## 🖼️ Screenshots
+
+
+
+---
+
+## 🧭 Investigation Approach
+
+
+
+---
+
+## ✅ Final Takeaway
