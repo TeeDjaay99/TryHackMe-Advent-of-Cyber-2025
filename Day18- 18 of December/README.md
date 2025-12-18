@@ -16,9 +16,8 @@ By analyzing encoded and layered data, I practiced identifying patterns and usin
 - Base64 encoding / decoding
 - ROT ciphers (ROT1, ROT13, ROT47)
 - XOR obfuscation
-- Gzip compression
 - Pattern recognition
-- PowerShell script review (static analysis)
+- PowerShell/Vs Code script review (static analysis)
 
 ---
 
@@ -58,13 +57,17 @@ By analyzing encoded and layered data, I practiced identifying patterns and usin
 
 ## 🖼️ Screenshots
 
-![Own YARA Rule](screenshots/01-Running-containers.png)
+![Script Inspection](screenshots/01-.png)
+*The provided PowerShell script opened in Visual Studio Code inside the VM.* ⬆️
 
-![Own YARA Rule](screenshots/01-Running-containers.png)
+![Base64 Deobfuscation](screenshots/02-.png)
+*Decoding the Base64 string found in the script using CyberChef.* ⬆️
 
-![Own YARA Rule](screenshots/01-Running-containers.png)
+![XOR Obfuscation](screenshots/03-.png)
+*Recreating the XOR obfuscation logic from the script.* ⬆️
 
-![Own YARA Rule](screenshots/01-Running-containers.png)
+![day 18 complete](screenshots/Day18-completed.png)
+
 *Proof of completing Day 18.* ⬆️
 
 ---
