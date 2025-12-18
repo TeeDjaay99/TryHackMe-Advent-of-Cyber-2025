@@ -1,1 +1,49 @@
+# 🎄Advent of Cyber 2025 – Day 18🎄
+### Obfuscation - The Egg Shell File
+
+---
+
+## 🎯 Objective 
+
+
+
+---
+
+## 🛠 Tools & Techniques Used
+
+
+
+---
+
+## 🧠 What I Learned Today
+
+
+
+---
+
+## 📌 Step-by-Step Summary
+
+
+  
+---
+
+## 🔐 Key Cybersecurity Concepts
+
+
+
+---
+
+## 🖼️ Screenshots
+
+
+
+---
+
+## 🧭 Investigation Approach
+
+
+
+---
+
+## ✅ Final Takeaway
 
