@@ -73,10 +73,10 @@ By interacting directly with a PLC using Python, I practiced identifying misconf
 
 ## 🧭 Investigation Approach
 
-I started by carefully reading the task explanation to understand how industrial systems differ from normal IT systems.
-Instead of immediately changing values, I focused on observing behavior first—both through the CCTV feed and by reading PLC registers and coils.
-Once I understood how package selection, delivery zones, and protection mechanisms were connected, I mapped out the system logic before making any changes.
-This helped me avoid triggering the self-destruct mechanism and allowed me to restore the system safely by changing values in the correct order.
+I started by reading the task instructions carefully to understand how industrial systems work compared to normal IT systems.
+Instead of changing values right away, I first watched how the system behaved using the CCTV feed and by checking the PLC registers and coils.
+After I understood how package types, delivery zones, and safety mechanisms were connected, I planned my changes before touching anything.
+This helped me avoid triggering the self-destruct trap and allowed me to fix the system safely by changing values in the correct order.
 
 ---
 
