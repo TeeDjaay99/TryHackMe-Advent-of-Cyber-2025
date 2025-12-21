@@ -64,7 +64,7 @@ For this task, I decided to intentionally leave out the screenshots.
 The vulnerability focused on application logic and timing rather than visible interface changes.
 The investigation and exploitation steps are therefore documented in text to better explain the reasoning and behavior observed during the attack.
 
-![day 20 complete](screenshots/Day19-completed.png)
+![day 20 complete](screenshots/Day20-completed.png)
 
 *Proof of completing Day 20.* ⬆️
 
