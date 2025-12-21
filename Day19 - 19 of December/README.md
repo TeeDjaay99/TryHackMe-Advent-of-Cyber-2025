@@ -67,7 +67,26 @@ By interacting directly with a PLC using Python, I practiced identifying misconf
 
 ## 🖼️ Screenshots
 
+![nmap scan](screenshots/01-.png)
+*Initial scan used to identify exposed services on the target system, confirming that Modbus (port 502) was accessible alongside SSH and HTTP.* ⬆️
 
+![comrpomised cctv site](screenshots/02-.png)
+*CCTV feed showing the warehouse actively delivering the wrong items.* ⬆️ 
+
+![recon script ran](screenshots/03-.png)
+
+*Initial readout of PLC registers and system state using a custom script.* ⬆️ 
+
+![coils](screenshots/04-.png)
+
+*Inspection of PLC safety and protection flags before remediation.* ⬆️ 
+
+![system restored](screenshots/05-.png)
+*System restored after safely updating PLC values and verifying normal operation.* ⬆️ 
+
+![day 19 complete](screenshots/Day19-completed.png)
+
+*Proof of completing Day 19.* ⬆️
 
 ---
 
