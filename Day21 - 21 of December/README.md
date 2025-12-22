@@ -37,10 +37,6 @@
 
 
 
-![day 21 complete](screenshots/Day21-completed.png)
-
-*Proof of completing Day 21.* ⬆️
-
 ---
 
 ## 🧭 Investigation Approach
