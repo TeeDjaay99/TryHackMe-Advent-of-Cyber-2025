@@ -70,6 +70,20 @@ The focus was on recognizing malicious behavior rather than fully reversing the 
 
 ## 🖼️ Screenshots
 
+![day 18 complete](screenshots/01-.png)
+
+*HTA file opened safely in a text editor to inspect metadata and embedded scripts.* ⬆️
+
+![Base64](screenshots/02-.png)
+
+*Decoding a Base64 string to reveal a hidden external resource.* ⬆️
+
+![day 21 complete](screenshots/Day21-completed.png)
+
+*Proof of completing Day 5.* ⬆️
+
+The screenshots above show the two most important steps in this analysis. First, the HTA file was opened safely in a text editor to inspect its structure and embedded scripts without executing it. This made it possible to identify script sections and understand how the file was intended to behave.
+The second screenshot shows a Base64-encoded string being decoded, which revealed an external resource. This helped confirm that the HTA was attempting to download additional content, a common technique used in malware delivery. Together, these steps highlight how even a small HTA file can hide more complex and potentially malicious behavior.
 
 
 ---
