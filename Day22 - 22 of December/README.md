@@ -57,7 +57,7 @@ After viewing the results, I inspected individual connections to understand why 
 *Converting a PCAP file into Zeek logs for further analysis.* ⬆️
 
 ![suspicious conenctions](screenshots/02-.png)
-*RITA highlighting a suspicious connection and its associated details.* ⬆️
+*RITA results showing multiple connections with varying severity levels and beacon scores.* ⬆️
 
 In the RITA results, multiple internal hosts were observed communicating with the same external domain. Several of these connections showed high beacon scores and long connection durations, which are common indicators of command-and-control behavior. Even though not every entry was marked as high severity, the repeated pattern across multiple hosts suggests coordinated activity rather than normal traffic.
 
