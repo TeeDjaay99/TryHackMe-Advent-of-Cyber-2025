@@ -53,9 +53,10 @@ After viewing the results, I inspected individual connections to understand why 
 
 ## 🖼️ Screenshots
 
-![Impersonation & Free Domain](screenshots/01-Impersonation-Free-Domain.png)
+![converting pcap](screenshots/01-.png)
+*Converting a PCAP file into Zeek logs for further analysis.* 
 
-![Impersonation & Free Domain](screenshots/01-Impersonation-Free-Domain.png)
+![Impersonation & Free Domain](screenshots/-.png)
 
 In the RITA results, multiple internal hosts were observed communicating with the same external domain. Several of these connections showed high beacon scores and long connection durations, which are common indicators of command-and-control behavior. Even though not every entry was marked as high severity, the repeated pattern across multiple hosts suggests coordinated activity rather than normal traffic.
 
