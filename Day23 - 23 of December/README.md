@@ -52,8 +52,26 @@ With the new permissions, I enumerated S3 buckets, found an interesting bucket, 
 
 ## 🖼️ Screenshots
 
+![Initial IAM enumeration](screenshots/01-.png)
 
-![day 23 complete](screenshots/day22-completed.png)
+*Enumerating the current IAM user and identifying attached user policies using the AWS CLI.* ⬆️
+
+![bucketmaster](screenshots/02-.png)
+
+*Identifying an assumable IAM role through its trust policy.* ⬆️
+
+![Successful Role Assumption and Identity Verification](screenshots/03-.png)
+
+*Successfully assuming the bucketmaster role and confirming the updated AWS identity.* ⬆️
+
+![Listing S3 Buckets with Elevated Permissions](screenshots/04-.png)
+
+*New permissions revealed access to S3 buckets.* ⬆️
+
+![Retrieving an Object from an S3 Bucket](screenshots/05-.png)
+*Accessing a file inside the S3 bucket after privilege escalation.* ⬆️
+
+![day 23 complete](screenshots/day23-completed.png)
 
 *Proof of completing Day 23.* ⬆️
 
