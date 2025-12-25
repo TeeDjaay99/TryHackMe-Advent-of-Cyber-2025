@@ -106,25 +106,25 @@ I will update this repo every day during Advent of Cyber.
 | Day 3 | ✅ Completed   | Splunk Basics|
 | Day 4 | ✅ Completed   | Ai in Security|
 | Day 5 | ✅ Completed   | IDOR      | 
-| Day 6 |                 | Malware Analysis|
-| Day 7 |                 | Network - |
-| Day 8 |    |            |
-| Day 9 |    |            |
-| Day 10 |    |           | 
-| Day 11 |     |          |
-| Day 12 |     |          |
-| Day 13 |      |         |
-| Day 14 |      |         |
-| Day 15 |       |        |
-| Day 16 |       |        |
-| Day 17 |       |        |
-| Day 18 |       |        |
-| Day 19 |       |        |
-| Day 20 |       |        |
-| Day 21 |        |       |
-| Day 22 |       |        |
-| Day 23 |       |        |
-| Day 24 |        |       |
+| Day 6 | ✅ Completed   | Malware Analysis|
+| Day 7 | ✅ Completed   | Network Discovery |
+| Day 8 | ✅ Completed   | Prompt Injection  |
+| Day 9 |  ✅ Completed  | Passwords |
+| Day 10 | ✅ Completed  | SOC Alert Triaging | 
+| Day 11 | ✅ Completed  | XSS |
+| Day 12 | ✅ Completed  | Phishing |
+| Day 13 | ✅ Completed  | YARA Rules |
+| Day 14 | ✅ Completed  | Containers |
+| Day 15 | ✅ Completed  | Web Attack Forensics |
+| Day 16 | ✅ Completed  | Forensics |
+| Day 17 | ✅ Completed  | CyberChef |
+| Day 18 | ✅ Completed  | Obfuscation |
+| Day 19 | ✅ Completed  | ICS/Modbus |
+| Day 20 | ✅ Completed  | Race Conditions |
+| Day 21 | ✅ Completed  | Malware Analysis |
+| Day 22 | ✅ Completed  | C2 Detection |
+| Day 23 | ✅ Completed  | AWS Security |
+| Day 24 | ✅ Completed  | Exploitation with cURL |
 
 ---
 
