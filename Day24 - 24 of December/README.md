@@ -56,11 +56,20 @@ It also became clearer how login systems, cookies, and session handling work beh
 
 ## 🖼️ Screenshots
 
+![day 23 complete](screenshots/01-.png)
 
+*Sending a basic HTTP GET request with curl and viewing the raw server response.* ⬆️
 
-![day 23 complete](screenshots/day23-completed.png)
+![day 23 complete](screenshots/02-.png)
+*Submitting a POST request with curl that results in a successful login.* ⬆️
 
-*Proof of completing Day 23.* ⬆️
+![day 23 complete](screenshots/03-.png)
+
+*Saving a session cookie after login and reusing it to access an authenticated endpoint.* ⬆️
+
+![day 24 complete](screenshots/day24-completed.png) 
+
+*Proof of completing Day 24.* ⬆️
 
 ---
 
